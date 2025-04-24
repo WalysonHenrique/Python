@@ -1,0 +1,109 @@
+Regex para achar o valor de alho [a-z]{2}[ ][0-9]{2}[.][0-9]{2}[ ]
+
+
+(Recebemos de PREMIUM COM, E SERV. LTDA EPP os produtos eou serviços constantes da Nota Fiscal Eletróni ”
+
+indicada vo lado
+NF-e
+
+| Destinatário: INS.FED. ESPIRITO SANTO CAMPES DE ALEGRE - RUA PRINCIPAL, SN RIVE = ALEGRE - ES |
+n | e
+[OERTEAÇÃO E ASSAR ES RECEREDOR | Nº 000.013.582
+|
+l
+
+Valor Total RS 976,71
+
+| | | Série 001
+i
+cg mr e
+EPP | Nota Fiscal Eletrônica |
+| O-ENTRADA 4.
+EB, so. RUA BERNARDO VARGAS, 36 | 1-SADA Deum so A o
+A PESE RIVE «ALEGRE. ES Nº 000.013.382 3225 0397 5301 0600 0139 5500 1000 0133 8210 0028 3312
+Fone (28)3552-8001 CEP: 25520-000 | ra L.
+| Série 001 Consulta de autenticidade no portal da NF-e
+| Folha 1/1 wu. nfe fazenda. gov.briportal ou no site da SEFAZ Autenticadora
+NATUREZA DA DEERAÇÃO PROTOROLO DE AUTORIZAÇÃO DE USO
+| VENDAS É 232250034540294 14/03/2025 08:10:21
+finsCRIÇÃO ESTADUAL o [INSCRIÇÃO ESTADUÊS DO SUBSTITUTO TRIBUTÁRIO, o o : Tones
+ ORDROBES4 | | 97.530.1060001-39
+DESTINATÁRIO / REMETENTE
+[Nove memo SceL— Tones Tas CO [BRA BEEaESO
+INS.FED. ESPIRITO SANTO:/CAMPUS DE ALEGRE 0.838.653/0012-50 14/03/2025
+ENBERELS eso OS TO Tee DETAGESADA
+RUA PRINCIPAL, SN | RIVE | 29520-000 14/03/2025
+nuNPiO [e frei NSSRIGÃO ESTADUAL GRA DA SAEM
+' ALEGRE “ES | (28)3552-813] j 082005672 Í 08:10:39
+
+i
+
+CÁLCULO DO IMPOSTO
+
+|
+0,00 | 0.00, 970.71
+[OUTRAS DESPESAS ACESSOS vALOR DO de! Ra VALOR TOTAL DA NOTA Um
+0.00, 0.00. 0.00, 970,71
+fncndr "RAZEO SOCIAL ÍFRETE POR CONTA céBIGE: ANTT PracaDoveicuLo — [ur Jenme+crr
+REMETENTE 1 0- REMETENTE | | |
+Exseneço fesies T nr ssa -
+| , : “AQ a | ii
+| RUA BERNARDO VARGAS, 36 | ALEGRE | ES |
+ma TE 5 - Trio ES fesauamos
+| | | | L | o
+DADOS DOS PRODUTOS / SERVIÇOS -
+f i o! I Duo | Tvaor | vao VALOR | BASED VALOR vaLor | Aquorá
+| sem, | otscrição Do erosuro servico Comum | es | err |umo | cure quit, | qi | um | am | ar |
+| amss FALHO KG CEASA 07032090; 020; SI02 |] KG 39.00 24,89] 0,00] 77 399,70 67.95] 0.60 tm, eu
+| IMERCADORIA ALIQU ZERO PISICOFINS NAO SUJFITO A | | | | | |
+IREFENCAO, CONE ART 28. INCISO O LET io RAS2e04 | | | i | | | | | | |
+t t i ] i i
+! i i | 1 | Í t
+t i ! i º | º
+t i i ] ! i | Ê
+| : | í | | É | | | ' |
+i | | i | | | i
+| ] i Í f Í | | Í
+| i | | |]
+| Co | | | |
+| | | i
+| Po | | | | |
+í | | | i i | ! i |
+| | | | i | j | | | i
+| | | | ! ! Vo
+i | | | | | ! i o
+| | o | | | |
+i i | ; | ]
+i | | | í
+| | | | | |
+! | I | | í !
+| | | | | | !
+| | Po | | | i
+| | | | | | | | |
+i | ; i | | |
+| | | i i | i | |
+| | i | |
+: i Ê i
+! i | !
+À N —
+teuto pOISSan m DOS SERVICOS [mesg DE CALCULO DD NSSON [uator TOTAL DO isso
+E Ear “ a | ] 0,00
+| j 0,00 | 0.00, R
+
+DADOS ADICIONAIS , —
+
+RESERVADO AO Fisco
+
+[FORINSÕES COMPLEMENTARES
+
+lesT: 020 = 970,71 [ Vr Base: 398,70 = Vr.lems: 87,95 | |
+
+[asa Ã 3003 CiC 26.710-4;
+NOTA DE EMPENHO 2024NE223 PREGÃO 90006/2024--.-CONTA: PARA DEPOSITO---BANCO SICOOS 756 AG
+
+Retenção de IR no valor de R$ 11,65. CSLL no vaior de R$ 9.71 de acordo com INSTRUCAO NORMATIVA RFB Nº 2145, DE 26 DE JUNHO
+
+(DE 2023
+
+atual Sistemas
+

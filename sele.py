@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 import bs4
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 driver.get("https://academico.ifes.edu.br/qacademico/index.asp?t=1001")
 time.sleep(4)
 elem = driver.find_element(By.NAME, "LOGIN")
@@ -21,9 +21,9 @@ HTML = driver.page_source
 soup = bs4.BeautifulSoup(HTML, 'html.parser')
 
 linhas = soup.find_all('tr', class_={"conteudoTexto"})
-
 for linha in linhas:
     dados = linha.find_all('td')
     disciplinas = dados[0]
-    faltas = dados[4]
-    print(disciplinas.text, faltas.text)
+    faltas = dados[3]
+    print("Disciplina: "+disciplinas.text+ ", "+ "Faltas: "+faltas.text)
+    
