@@ -1,1 +1,4 @@
-^[0-9]{4}[ ][A-Z]
+
+print("\nItens organizados:")
+for produto in dados:
+    print(produto)
