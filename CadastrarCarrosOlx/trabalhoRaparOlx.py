@@ -80,3 +80,5 @@ def varrerPagina(linksCarros):
         print(linkUrl)
         countPages +=1
     return anuncios
+
+print(varrerPagina(varrerLinks()))
