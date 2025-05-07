@@ -3,7 +3,7 @@ import os
 def clicar():
     while True:
         os.system('python -u "c:/Users/20231stads005/Documents/Codes/Python/interface.py"')
-    print(" botao foi clicado")
+        print(" botao foi clicado")
 def limpar():
     os.system('cls')
 gui = Tk()
