@@ -1,5 +1,5 @@
 import requests
-
+from pprint import pprint
 def consultar():
     # Substitua <URL pública do túnel> pelo valor fornecido pelo Ngrok
     url_base = "http://127.0.0.1:5000"
@@ -18,5 +18,21 @@ def consultar():
     else:
         print('Erro ao consumir a API:', response.status_code)
         
-        
-consultar()
+def viacepe():
+    dados = []
+    url = 'https://viacep.com.br/ws/29105163/json'
+    response = requests.get(url)
+
+    if response.status_code == 200:
+        dados.append({
+            'Logradouro':response.json()['logradouro'],
+            'Bairro':response.json()['bairro'],
+            'Cidade':response.json()['localidade'],
+            'UF':response.json()['uf']
+        })
+        for dado in dados:
+            pprint(dado)        
+    else:
+        print('Erro ao acessar')
+    
+viacepe()

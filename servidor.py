@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 dados = []
-
+ 
 dados.append({
         "Descricao": "Amarelo"
         ,"Quantidade": "20"
