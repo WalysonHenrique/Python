@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from View import Application
 from Model import Database
+import re
 
 
 class ControllerApplication:
@@ -12,18 +13,27 @@ class ControllerApplication:
         self.view = Application(master, self)
         
     
-    
+    def is_valid_email(self, email):
+        pattern = r'^[\w\.-]+@[\w\.-]+\.\w+$'
+        return re.match(pattern, email) is not None
+
     def insert_user(self):
         name = self.view.input_name.get().strip()
         mail = self.view.input_mail.get().strip()
-        
+
         if not name or not mail:
             messagebox.showwarning("Campos Obrigatórios!", "Preencha todos os campos.")
             return
+
+        if not self.is_valid_email(mail):
+            messagebox.showerror("E-mail inválido", "Digite um e-mail válido.")
+            return
+
         self.database.insert_user(name, mail)
-        messagebox.showinfo("Sucesso!","Usuário inserido com sucesso.")
+        messagebox.showinfo("Sucesso!", "Usuário inserido com sucesso.")
         self.view.input_name.delete(0, tk.END)
         self.view.input_mail.delete(0, tk.END)
+
         
     def list_users(self):
         window = tk.Toplevel(self.master)
